@@ -1,0 +1,16 @@
+body {
+    background-image: url("./snow.jpeg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+};
+
+.countdown-container {
+    display: flex;
+
+
+}
+
+
