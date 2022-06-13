@@ -5,22 +5,21 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 20%;
-};
+    margin-top: 15%;
+
+}
 
 .countdown-container {
     display: flex;
-    flex-direction: column;
-    
-};
+    justify-content: center;
+}
 
-.countdown-numbers {
-    display: flex;
-
-};
+.time {
+    text-align: center;
+    padding:5%;
+}
 
 p {
     font-weight: bold;
+    font-size: 120%;
 }
-
-
